@@ -1,12 +1,15 @@
 /******************************************************************************
  * Content
  ******************************************************************************/
-
+html{
+  height: 100%;
+}
 body {
-  padding-bottom: 70px;
+  padding-bottom: 75px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-
+  position: relative;
+  min-height: 100vh;
   h1,
   h2,
   h3,
@@ -29,6 +32,7 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+  //padding-bottom: 5rem;
 }
 
 // Profile
