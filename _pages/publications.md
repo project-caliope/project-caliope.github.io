@@ -14,6 +14,7 @@ nav_order: 2
 
 </div>
 <br/>
+
 ## repositories
 
 {% if site.data.repositories.github_repos %}
@@ -24,6 +25,7 @@ nav_order: 2
   {% endfor %}
 </div>
 {% endif %}
+<br/>
 
 ## public reports
 

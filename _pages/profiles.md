@@ -16,9 +16,10 @@ profiles:
     more_info: >
       <p>Postdoctoral Fellow</p>
   - align: left
-    image: wiggins.webp
+    image: wiggins.jpeg
     content: bio_gw.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    
       <p>Supervisor</p>
 ---

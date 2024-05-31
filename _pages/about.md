@@ -6,7 +6,7 @@ subtitle: funded by the European Commission (REA) under MSCA-PF actions
 
 profile:
   align: center
-  image: logo.png
+  image: logo.svg
   image_circular: false # crops the image to make it circular
   more_info: >
   #  <p></p>
