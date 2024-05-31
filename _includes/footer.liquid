@@ -1,5 +1,6 @@
 {% if site.footer_fixed %}
   <footer class="" role="contentinfo">
+  <div class="footer-content">
     <div class="container mt-0">
       &copy; Copyright {{ site.time | date: '%Y' }}
       F Carnovalini. {{ site.footer_text }}
@@ -13,8 +14,29 @@
       Funded by the European Union HORIZON-MSCA-2022-PF-01 ID 101108690. Views and opinions expressed are those of the 
       author(s) only and do not necessarily reflect those of the EU or the European Commission. 
       Neither the EU nor the granting authority can be held responsible for them.
-    </p></div>
+    </p>
+    
+
+
+    </div>
+    <a class="simpleanalytics-light analytics-badge" href="https://dashboard.simpleanalytics.com/caliope.vub.ac.be?utm_source=caliope.vub.ac.be&utm_content=badge" 
+referrerpolicy="origin" target="_blank">
+<picture><source srcset="https://simpleanalyticsbadges.com/caliope.vub.ac.be?mode=dark" 
+media="(prefers-color-scheme: dark)" />
+<img src="https://simpleanalyticsbadges.com/caliope.vub.ac.be?logo=b509ac&mode=dark" 
+loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" /></picture></a>
+</div>
+
+    <a class="simpleanalytics-dark analytics-badge" href="https://dashboard.simpleanalytics.com/caliope.vub.ac.be?utm_source=caliope.vub.ac.be&utm_content=badge" 
+referrerpolicy="origin" target="_blank">
+<picture><source srcset="https://simpleanalyticsbadges.com/caliope.vub.ac.be?mode=light" 
+media="(prefers-color-scheme: light)" />
+<img src="https://simpleanalyticsbadges.com/caliope.vub.ac.be?logo=2698ba&mode=light" 
+loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" /></picture></a>
+</div>
   </footer>
+  
+  
 {% else %}
   <footer class="sticky-bottom mt-5" role="contentinfo">
     <div class="container">
@@ -32,6 +54,9 @@
       Funded by the European Union HORIZON-MSCA-2022-PF-01 ID 101108690. Views and opinions expressed are those of the 
       author(s) only and do not necessarily reflect those of the EU or the European Commission. 
       Neither the EU nor the granting authority can be held responsible for them.
-    </p>    </div>
+    </p>    
+    
+    
+    </div>
   </footer>
 {% endif %}

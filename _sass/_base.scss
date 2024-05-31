@@ -440,12 +440,22 @@ footer{
   position: absolute;
   bottom: 0;
   width: 100%;
+  padding-bottom: 10px;
+
+  .footer-content{
+    position: relative;
+margin-left: auto;
+margin-right: auto;
+max-width: 100%;
+  }
   
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
-    padding-bottom: 8px;
+    padding-bottom: 5px;
     text-align: center;
+    margin-left: 0;
+    max-width: 100%;
   }
 
   a {
@@ -474,6 +484,16 @@ footer.sticky-bottom {
     text-align: center;
   }
 }
+
+// footer badge
+
+footer .analytics-badge{
+  display: block;
+  text-align: center;
+}
+
+
+
 
 // CV
 
@@ -1198,6 +1218,6 @@ footer{
   p.disclaimer{
     color: var(--global-footer-text-color);
     margin-bottom: 0;
-    font-size: 0.8em;
+    font-size: 0.9em;
   }
 }
