@@ -1,3 +1,3 @@
-Geraint is Professor of Computational Creativity at the VUB and at Queen Mary University of London, UK. 
+Geraint Wiggins is Professor of Computational Creativity at the VUB and at Queen Mary University of London, UK. 
 He was one of the founders of the research field of computational creativity, which provides an alternative approach to the simulation intelligent and creative human activities on computers. He has worked in creative AI and cognitive science for around 30 years, serving as chair of the SSAISB from 2000 to 2004, and then chair of the Association for Computational Creativity (ACC) from 2007 to 2014; he is now chair of the General Assembly of the ACC. He is editor-in-chief of the new Journal for Computational Creativity, and an editorial board member (or equivalent) of Musicae Scientiae, Music Perception and the Journal of New Music Research. 
 He moved to the VUB in January 2018.
