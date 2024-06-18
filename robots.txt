@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://project-caliope.github.io/sitemap.xml
+Sitemap: https://caliope.vub.ac.be/sitemap.xml
