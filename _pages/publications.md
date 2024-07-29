@@ -31,3 +31,5 @@ nav_order: 2
 
 - Dissemination, Exploitation, and Communication Plan (v1.0) - <a href="../assets/pdf/DEC.pdf">download</a>
 - Data Management Plan (v1.0) - <a href="../assets/pdf/DMP.pdf">download</a>
+- Carrer Development Plan (v1.1) - <a href="../assets/pdf/CDP_1_1.pdf">download</a>
+- Progress Report 6 months (v1.0) - <a href="../assets/pdf/Report_6m.pdf">download</a>
