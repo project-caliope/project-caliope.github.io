@@ -15,21 +15,13 @@ nav_order: 2
 </div>
 <br/>
 
-## repositories
+## data and code
+- [https://zenodo.org/records/19335845](https://zenodo.org/records/19335845)
+- [https://github.com/project-caliope/caliope_experiments](https://github.com/project-caliope/caliope_experiments)
+- [https://github.com/project-caliope/project-caliope.github.io](https://github.com/project-caliope/project-caliope.github.io)
 
-{% if site.data.repositories.github_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-<br/>
 
 ## public reports
 
 - Dissemination, Exploitation, and Communication Plan (v1.0) - <a href="../assets/pdf/DEC.pdf">download</a>
 - Data Management Plan (v1.0) - <a href="../assets/pdf/DMP.pdf">download</a>
-- Carrer Development Plan (v1.1) - <a href="../assets/pdf/CDP_1_1.pdf">download</a>
-- Progress Report 6 months (v1.0) - <a href="../assets/pdf/Report_6m.pdf">download</a>
